@@ -1,3 +1,5 @@
+### Project has moved to [infernojs](https://github.com/infernojs/brunch-with-inferno)
+
 # Brunch + Inferno + Babel/ES6
 
 This is a modern JS skeleton with Inferno for Brunch. Includes `inferno` and `inferno-component` packages.
